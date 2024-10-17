@@ -1,0 +1,14 @@
+.carousel {
+    height: 400px; /* Set the height of the carousel */
+    overflow: hidden; /* Hide any overflow */
+  }
+  
+  .carousel-inner {
+    height: 100%; /* Ensure the inner carousel takes full height */
+  }
+  
+  .carousel-image {
+    height: 100%; /* Set the image height to 100% of the carousel */
+    object-fit: contain; /* Maintain aspect ratio and fit within the carousel */
+  }
+  
